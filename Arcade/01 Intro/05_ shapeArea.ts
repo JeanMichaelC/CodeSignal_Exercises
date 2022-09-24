@@ -26,6 +26,6 @@
 
 
 	// My new solution based on answers from others
-	const solution = (n: number) => n > 0 ? n ** 2 + (n-1) ** 2 : 0;
+	const myEnhancedSolution = (n: number) => n > 0 ? n ** 2 + (n-1) ** 2 : 0;
 
 })
