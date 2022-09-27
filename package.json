@@ -1,0 +1,22 @@
+{
+  "name": "codesignal_exercises",
+  "version": "1.0.0",
+  "description": "All my answers to the exercises and answers of others that are worth remembering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanMichaelC/CodeSignal_Exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanMichaelC/CodeSignal_Exercises/issues"
+  },
+  "homepage": "https://github.com/JeanMichaelC/CodeSignal_Exercises#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
